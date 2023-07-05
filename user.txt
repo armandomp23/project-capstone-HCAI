@@ -1,0 +1,5 @@
+Admin Account 
+Id: admin
+Pass : admin
+User : armando
+pass : 141234

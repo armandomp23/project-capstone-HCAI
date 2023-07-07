@@ -4,7 +4,7 @@ Capstone Project - Armando Mendoza Putra
 # Pattern
 https://developer.ibm.com/patterns/enhance-customer-helpdesk-with-smart-document-understanding-using-search-skill
 
-#Description
+# Description
 Chatbot ini dirancang sebagai Asisten Virtual yang dapat digunakan oleh customer untuk mendapatkan informasi mengenai toko buku Arumedia.
 Chatbot ini didukung oleh kecerdasan buatan (Artificial Intelligence) dan dapat memberikan jawaban atas pertanyaan yang diajukan oleh pengguna
 berdasarkan pengetahuan yang telah diprogram sebelumnya. Dengan adanya chatbot ArumediaBot, diharapkan customer dapat dengan mudah mengakses

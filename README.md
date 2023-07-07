@@ -20,7 +20,7 @@ informasi yang dibutuhkan dan mendapatkan bantuan yang diperlukan dalam mencari 
 
 ### Chatbot ini dibuat menggunakan
 
-Watson Asistant & Watson Discovery
+Watson Assistant & Watson Discovery
 
 ### Link
 [Arumedia Bot](https://arumed1a.000webhostapp.com/)

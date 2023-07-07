@@ -10,7 +10,7 @@ Chatbot ini didukung oleh kecerdasan buatan (Artificial Intelligence) dan dapat 
 berdasarkan pengetahuan yang telah diprogram sebelumnya. Dengan adanya chatbot ArumediaBot, diharapkan customer dapat dengan mudah mengakses
 informasi yang dibutuhkan dan mendapatkan bantuan yang diperlukan dalam mencari informasi mengenai Toko Buku Arumedia.
 
-#Flow
+# Flow
 ![flow](https://github.com/armandomp23/project-capstone-HCAI/blob/master/enhance-customer-helpdesks-smart-document-understanding-assistant-search-skill.png?raw=true)
 
 
